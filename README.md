@@ -24,11 +24,12 @@
 <img src="./img/A-3.png" width="50%">
 
 ## 812B_Response
+
 #### Table 2. New Accuracy Metrics
-<img src="./img/BB-1.png" width="55%">
+<img src="./img/acc.png" width="45%">
 
 #### Table 3. Accuracy Results
-<img src="./img/acc.png" width="45%">
+<img src="./img/BB-1.png" width="55%">
 
 ## 812C_Response
 
