@@ -1,7 +1,7 @@
 ## C2: Security Proof (812A, 812D)
 #### Table 1. Symbol Description of UC framework
 
-<img src="./img/CC-1.png" width="20%">
+<img src="./img/CC-1.png" width="22%">
 
 
 ## 812A_Response
@@ -25,15 +25,15 @@
 
 ## 812B_Response
 #### Table 2. New Accuracy Metrics
-<img src="./img/BB-1.png" width="50%">
+<img src="./img/BB-1.png" width="55%">
 
 #### Table 3. Accuracy Results
-<img src="./img/acc.png" width="35%">
+<img src="./img/acc.png" width="45%">
 
 ## 812C_Response
 
 #### Table 4. Overheads on Existing Work
-<img src="./img/C-1.png" width="30%">
+<img src="./img/C-1.png" width="37%">
 
 #### Computation Improvement
 <img src="./img/D-1.png" width="50%">
@@ -46,7 +46,7 @@
 ### Experiments on Large-datasets
 
 #### Table 5. Computational and Communication Complexity
-<img src="./img/D-3.png" width="50%">
+<img src="./img/D-3.png" width="55%">
 
 #### Computation Improvement
 <img src="./img/D-1.png" width="50%">
