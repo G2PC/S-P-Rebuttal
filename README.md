@@ -25,7 +25,7 @@
 
 ## 812B_Response
 #### Table 2. New Accuracy Metrics
-<img src="./img/B-1.png" width="50%">
+<img src="./img/BB-1.png" width="50%">
 
 #### Table 3. Accuracy Results
 <img src="./img/acc.png" width="35%">
