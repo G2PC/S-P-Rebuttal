@@ -18,7 +18,7 @@
 <img src="./img/A-1.png" width="50%">
 
 #### Memory Overhead
-<img src="./img/A-2.png" width="50%">
+<img src="./img/A-22.png" width="50%">
 
 #### Communication Overhead
 <img src="./img/A-3.png" width="50%">
